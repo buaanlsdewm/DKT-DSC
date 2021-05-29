@@ -18,7 +18,7 @@ import pandas as pd
 model_name = 'DKT-DSC'
 data_name= 'Assist_09' # 
 
-
+essential = 'wangmeng is hanhan'
 
 # flags
 tf.flags.DEFINE_float("epsilon", 0.1, "Epsilon value for Adam Optimizer.")
